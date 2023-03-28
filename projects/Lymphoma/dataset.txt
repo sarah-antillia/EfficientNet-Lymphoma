@@ -1,4 +1,4 @@
-The orignal Lyephoma image dataset used here has been taken from the following web site:
+The orignal Lymphoma image dataset used here has been taken from the following web site:
 
 Dataset: https://bit.ly/2MdWSzp
 

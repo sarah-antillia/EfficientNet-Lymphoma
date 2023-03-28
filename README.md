@@ -1,4 +1,4 @@
-<h2>EfficientNet-EfficientNet-Lymphoma (Updated: 2023/03/28)</h2>
+<h2>EfficientNet-Lymphoma (Updated: 2023/03/28)</h2>
 <a href="#1">1 EfficientNetV2 EfficientNet-Lymphoma Classification </a><br>
 <a href="#1.1">1.1 Clone repository</a><br>
 <a href="#1.2">1.2 Prepare Peripheral Blood Cell dataset</a><br>
@@ -156,7 +156,7 @@ pip install -r requirements.txt
 <br>
 
 <h2>
-<a id="2">2 Python classes for LymphomaClassification</a>
+<a id="2">2 Python classes for Lymphoma Classification</a>
 </h2>
 We have defined the following python classes to implement our LymphomaClassification.<br>
 <li>
