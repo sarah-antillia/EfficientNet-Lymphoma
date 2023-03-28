@@ -1,0 +1,8 @@
+,precision,recall,f1-score,support
+DAB,1.0,1.0,1.0,23.0
+DistanceMap,1.0,1.0,1.0,23.0
+Hematoxylin,1.0,1.0,1.0,23.0
+MYC_IHC,1.0,1.0,1.0,23.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,92.0
+weighted avg,1.0,1.0,1.0,92.0

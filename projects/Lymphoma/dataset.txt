@@ -1,0 +1,8 @@
+The orignal Lyephoma image dataset used here has been taken from the following web site:
+
+Dataset: https://bit.ly/2MdWSzp
+
+Citation:
+https://www.ncbi.nlm.nih.gov/pubmed/27093450
+https://arxiv.org/abs/1409.1556
+https://arxiv.org/abs/1905.11946
