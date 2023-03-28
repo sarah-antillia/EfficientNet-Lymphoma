@@ -349,7 +349,7 @@ Inference result (<a href="./projects/Lymphoma/inference/inference.csv">inferenc
 <a id="6.1">6.1 Evaluation script</a>
 </h3>
 Please run the following bat file to evaluate <a href="./projects/Lymphoma/Lymphoma/test">
-Malaris_Cell_Images/test</a> by the trained model.<br>
+Lymphoma_images/test</a> by the trained model.<br>
 <pre>
 ./3_evaluate.bat
 </pre>
